@@ -1,0 +1,45 @@
+//--------------------------abstracts--------------------
+@import "abstracts/variables";
+//--------------------------base-------------------------
+@import "base/reset";
+//--------------------------component---------------------
+@import "components/mainbtn";
+@import "components/headers";
+@import "components/herosection";
+@import "components/navbar";
+@import "components/input";
+@import "components/messageIcon";
+@import "components/totop";
+@import "components/sidenav";
+@import "components/fileupload";
+@import "components/formstyle";
+@import "components/buttonadd";
+@import "components/therapistcard";
+@import "components/message";
+@import "components/conversation";
+@import "components/admintherapistcard";
+@import "components/adminpostcard";
+//--------------------------layout---------------------
+@import "layout/about";
+@import "layout/works";
+@import "layout/contact";
+@import "layout/footer";
+@import "layout/error";
+@import "layout/therapistdashboard";
+@import "layout/therapistfiles";
+@import "layout/theraoistprofile";
+@import "layout/therapistsummary";
+@import "layout/registeroptions";
+@import "layout/therapistlist";
+@import "layout/therapistreview";
+@import "layout/userprofile";
+@import "layout/addappointment.scss";
+@import "layout/admindashboard";
+@import "layout/adminverifytherapist";
+@import "layout/adminverifypost";
+@import "layout/registertherapist";
+@import "layout/admintabs";
+//--------------------------pages---------------------
+@import "pages/articles";
+@import "pages/posts";
+@import "pages/messenger";

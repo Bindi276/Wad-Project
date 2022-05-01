@@ -1,0 +1,51 @@
+.footer {
+    background-color: $colsecondary;
+
+    h5 {
+        margin-bottom: 1.5rem;
+    }
+
+    .row {
+        padding-top: 3.5rem;
+    }
+
+    p {
+        color: $colfontsecondary;
+        text-align: center;
+    }
+
+    // &__logo {
+    //     display: flex;
+    //     justify-content: center;
+    //     width: min-content;
+    // }
+
+    &__links {
+        img {
+            display: inline-block;
+            margin: .2rem;
+            margin-right: 1.5rem;
+            width: 30px;
+        }
+    }
+}
+.footer_list{
+    li {
+        text-decoration: none;
+        color: black;
+    }
+}
+
+@media (max-width:750px){
+    .footer{
+        h5{
+            font-size:1rem;
+        }
+           &__links {
+        img {
+            width:20px;
+            margin-right: .1rem;
+        }
+    }
+    }
+}

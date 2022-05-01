@@ -1,0 +1,10 @@
+# Soul&Mind
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2007-52-59.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2007-54-57.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2007-55-29.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2007-56-41.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2008-02-08.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2008-05-07.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2008-14-46.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2008-17-54.png)
+![1st screenshot](https://github.com/Abhiavati20/SoulAndMind/blob/main/screenshots/Screenshot%20from%202022-04-30%2008-20-09.png)

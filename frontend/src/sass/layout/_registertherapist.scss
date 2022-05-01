@@ -1,0 +1,46 @@
+.registertherapist{
+    &__content{
+        overflow: auto;
+    }
+    &__btns{
+        text-align: center;
+        margin: 2rem 0rem;
+        &__mainbtn{
+            background-color: $colmain !important;
+            // border-radius: 5rem !important;
+            padding: .3rem 1rem;
+            width: fit-content;
+            font-weight: 500;
+            margin: 0rem .2rem !important;
+        }
+    }
+}
+
+.createtheraistprofile{
+    input[type='file']{
+        background-color:$colwhite !important;
+    }
+}
+
+/* material ui */
+.MuiStepper-horizontal{
+    background-color: $colbg !important;
+    flex-wrap:wrap;
+}
+.MuiStepIcon-root.MuiStepIcon-active,
+.MuiSvgIcon-root.MuiStepIcon-root.MuiStepIcon-completed {
+    color: $colmain !important;
+}
+
+@media (max-width:500px){
+    .createtheraistprofile{
+        h4{
+            font-size:1rem;
+        }
+    }
+    .registertherapist__content{
+        h4{
+            font-size:1rem;
+        }
+    }
+}
